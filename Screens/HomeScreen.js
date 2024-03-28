@@ -27,7 +27,7 @@ export default function Homescreen({ navigation }) {
           keyboardType="numeric"
         />
         <Button
-          title="Redirect to Child Component"
+          title="Redirect to ListScreen.js"
           onPress={handlePress}
           style={styles.button}
         />
